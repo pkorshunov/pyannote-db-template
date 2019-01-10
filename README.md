@@ -1,4 +1,4 @@
-# ODESSA database plugin for pyannote.database
+# ODESSA database plugin for pyannote
 
 ## Installation
 
